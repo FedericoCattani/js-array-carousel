@@ -26,12 +26,12 @@ body{
   position: relative;
 }
 
-.slider .items{
+.slider .items-container{
   width: 100%;
   height: 100%;
 }
 
-.slider .item{
+.slider .item,.hide{
   display: none;
 }
 
